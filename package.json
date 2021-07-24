@@ -13,7 +13,7 @@
     "inquirer": "8.1.0",
     "js-yaml": "4.1.0",
     "node-fetch": "^2.6.1",
-    "siapi-generate-new": "3.6.5"
+    "siapi-generate-new": "github:siapi-biru/siapi-generate-new#v3.6.5"
   },
   "scripts": {
     "test": "echo \"no tests yet\""
